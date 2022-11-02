@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2a70a43bb79c3aa95589",
+    "revision": "a02949f8bac0eca3dbbb",
     "url": "/moacirrf.github.io/static/css/main.c31d5ca6.chunk.css"
   },
   {
-    "revision": "2a70a43bb79c3aa95589",
-    "url": "/moacirrf.github.io/static/js/main.2a70a43b.chunk.js"
+    "revision": "a02949f8bac0eca3dbbb",
+    "url": "/moacirrf.github.io/static/js/main.a02949f8.chunk.js"
   },
   {
     "revision": "95ea83b6c7492a61ef7b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/moacirrf.github.io/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "41843ebe6dfc6a74561b3c8c3af0a153",
+    "revision": "3c2cf5414c6bc0d1ed8d1885f044a71d",
     "url": "/moacirrf.github.io/index.html"
   }
 ];
